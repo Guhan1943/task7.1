@@ -1,0 +1,51 @@
+
+    
+    body{
+        padding: 400px ;
+    }
+    .section{
+       padding: 40px 5px 40px 5px;
+        background-color: rgb(74, 136, 12);
+    }
+    .container{
+        background-color: #fff;
+        padding:50px;
+        border-radius: 20px;
+    }
+    .row3{
+        padding:20px 0px 20px 0px ;
+    }
+    .row4{
+        padding-left: 40px;
+    }
+    .row5{
+        padding-top: 10px;
+    }
+    input{
+        width: 100%;
+    }
+    li:hover{
+        background-color: rgba(105, 105, 105, 0.321);
+    }
+    .bt{
+        background-color: rgb(113, 186, 223);
+        border-radius: 20px;
+        width: 80px;
+        color: #fff;
+    }
+    .bt1{
+        width: 100%;
+        border-radius: 20px;
+    }
+    .bt11{
+         background-color: rgb(113, 186, 223);
+         color: #fff;
+    }
+    .bt12{
+        background-color: brown;
+         color: #fff;
+    }
+     .bt13{
+        background-color:rgb(89, 168, 9);
+         color: #fff;
+    }
